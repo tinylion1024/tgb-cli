@@ -1,0 +1,53 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  macos-universal:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: aarch64-apple-darwin,x86_64-apple-darwin
+      - name: Check tag version
+        run: |
+          crate_version="$(cargo metadata --no-deps --format-version 1 | jq -r '.packages[0].version')"
+          test "${GITHUB_REF_NAME}" = "v${crate_version}"
+      - name: Build both macOS architectures
+        run: |
+          cargo build --locked --release --target aarch64-apple-darwin
+          cargo build --locked --release --target x86_64-apple-darwin
+      - name: Package universal binary
+        run: |
+          mkdir -p dist
+          lipo -create \
+            target/aarch64-apple-darwin/release/tgb \
+            target/x86_64-apple-darwin/release/tgb \
+            -output dist/tgb
+          chmod 755 dist/tgb
+          lipo -info dist/tgb
+          tar -C dist -czf \
+            "tgb-cli-${GITHUB_REF_NAME}-universal-apple-darwin.tar.gz" \
+            tgb
+          shasum -a 256 \
+            "tgb-cli-${GITHUB_REF_NAME}-universal-apple-darwin.tar.gz"
+      - name: Publish release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          asset="tgb-cli-${GITHUB_REF_NAME}-universal-apple-darwin.tar.gz"
+          if gh release view "${GITHUB_REF_NAME}" >/dev/null 2>&1; then
+            gh release upload "${GITHUB_REF_NAME}" "${asset}" --clobber
+          else
+            gh release create "${GITHUB_REF_NAME}" "${asset}" \
+              --verify-tag \
+              --generate-notes \
+              --title "tgb-cli ${GITHUB_REF_NAME}"
+          fi
