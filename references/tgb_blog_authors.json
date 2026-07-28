@@ -1,0 +1,833 @@
+{
+  "_comment": "淘股吧(tgb.cn)大V博主Blog地址映射表 - 完整版",
+  "_sources": [
+    "https://www.tgb.cn/ (首页本周上升达人)",
+    "https://www.tgb.cn/rank (达人排行榜)",
+    "https://www.tgb.cn/bbs/ (论坛热门帖博主)",
+    "https://www.tgb.cn/spmatch/index/ (实盘比赛选手)"
+  ],
+  "_total_authors": 116,
+  "_tier_criteria": {
+    "S级": "粉丝 >= 50万",
+    "A级": "粉丝 10-50万",
+    "B级": "粉丝 3-10万",
+    "C级": "粉丝 1-3万",
+    "D级": "粉丝 1000-1万",
+    "E级": "粉丝 1-1000",
+    "未评级": "粉丝 = 0 或无法获取"
+  },
+  "authors": {
+    "4223": {
+      "name": "职业炒手",
+      "blog_url": "https://www.tgb.cn/blog/4223",
+      "fans": 244109,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "6630": {
+      "name": "好运2008",
+      "blog_url": "https://www.tgb.cn/blog/6630",
+      "fans": 101310,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "8500": {
+      "name": "不动明王",
+      "blog_url": "https://www.tgb.cn/blog/8500",
+      "fans": 19620,
+      "tier": "C级",
+      "source": "首页本周上升达人"
+    },
+    "103830": {
+      "name": "龙飞虎",
+      "blog_url": "https://www.tgb.cn/blog/103830",
+      "fans": 59505,
+      "tier": "B级",
+      "source": "首页本周上升达人"
+    },
+    "112510": {
+      "name": "共产主义",
+      "blog_url": "https://www.tgb.cn/blog/112510",
+      "fans": 41995,
+      "tier": "B级",
+      "source": "首页本周上升达人"
+    },
+    "134434": {
+      "name": "炒股养家",
+      "blog_url": "https://www.tgb.cn/blog/134434",
+      "fans": 578684,
+      "tier": "S级",
+      "source": "首页本周上升达人"
+    },
+    "138280": {
+      "name": "十万起家",
+      "blog_url": "https://www.tgb.cn/blog/138280",
+      "fans": 123057,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "154034": {
+      "name": "赵老哥",
+      "blog_url": "https://www.tgb.cn/blog/154034",
+      "fans": 125214,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "252069": {
+      "name": "柏拉爱空",
+      "blog_url": "https://www.tgb.cn/blog/252069",
+      "fans": 255099,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "268289": {
+      "name": "哈罗",
+      "blog_url": "https://www.tgb.cn/blog/268289",
+      "fans": 7201,
+      "tier": "D级",
+      "source": "首页本周上升达人"
+    },
+    "301502": {
+      "name": "定力",
+      "blog_url": "https://www.tgb.cn/blog/301502",
+      "fans": 26957,
+      "tier": "C级",
+      "source": "达人排行榜"
+    },
+    "308803": {
+      "name": "股海贼王",
+      "blog_url": "https://www.tgb.cn/blog/308803",
+      "fans": 111235,
+      "tier": "A级",
+      "source": "达人排行榜"
+    },
+    "410361": {
+      "name": "榜中榜",
+      "blog_url": "https://www.tgb.cn/blog/410361",
+      "fans": 29117,
+      "tier": "C级",
+      "source": "达人排行榜"
+    },
+    "412181": {
+      "name": "股道茶经老陆",
+      "blog_url": "https://www.tgb.cn/blog/412181",
+      "fans": 29482,
+      "tier": "C级",
+      "source": "达人排行榜"
+    },
+    "507890": {
+      "name": "包头人",
+      "blog_url": "https://www.tgb.cn/blog/507890",
+      "fans": 26525,
+      "tier": "C级",
+      "source": "达人排行榜"
+    },
+    "565464": {
+      "name": "只会做龙头",
+      "blog_url": "https://www.tgb.cn/blog/565464",
+      "fans": 60402,
+      "tier": "B级",
+      "source": "达人排行榜"
+    },
+    "827264": {
+      "name": "作手新一",
+      "blog_url": "https://www.tgb.cn/blog/827264",
+      "fans": 37562,
+      "tier": "B级",
+      "source": "达人排行榜"
+    },
+    "856449": {
+      "name": "投资如人生",
+      "blog_url": "https://www.tgb.cn/blog/856449",
+      "fans": 28113,
+      "tier": "C级",
+      "source": "达人排行榜"
+    },
+    "897273": {
+      "name": "沐阳1",
+      "blog_url": "https://www.tgb.cn/blog/897273",
+      "fans": 73726,
+      "tier": "B级",
+      "source": "达人排行榜"
+    },
+    "1032877": {
+      "name": "淘股吧实盘",
+      "blog_url": "https://www.tgb.cn/blog/1032877",
+      "fans": 38928,
+      "tier": "B级",
+      "source": "实盘比赛"
+    },
+    "1077659": {
+      "name": "东江湖畔",
+      "blog_url": "https://www.tgb.cn/blog/1077659",
+      "fans": 5914,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "1790571": {
+      "name": "伊泽瑞尔",
+      "blog_url": "https://www.tgb.cn/blog/1790571",
+      "fans": 1832,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "2015958": {
+      "name": "udfrog",
+      "blog_url": "https://www.tgb.cn/blog/2015958",
+      "fans": 4734,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "2652268": {
+      "name": "天赋之行",
+      "blog_url": "https://www.tgb.cn/blog/2652268",
+      "fans": 1269,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "2888425": {
+      "name": "涅槃重生2018",
+      "blog_url": "https://www.tgb.cn/blog/2888425",
+      "fans": 153038,
+      "tier": "A级",
+      "source": "实盘比赛"
+    },
+    "3118590": {
+      "name": "浩晨803",
+      "blog_url": "https://www.tgb.cn/blog/3118590",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "3138794": {
+      "name": "心无贪态",
+      "blog_url": "https://www.tgb.cn/blog/3138794",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "论坛热门帖"
+    },
+    "3324313": {
+      "name": "名字被你们",
+      "blog_url": "https://www.tgb.cn/blog/3324313",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "3484381": {
+      "name": "箭喜",
+      "blog_url": "https://www.tgb.cn/blog/3484381",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5024433": {
+      "name": "黄金外卖员",
+      "blog_url": "https://www.tgb.cn/blog/5024433",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5174163": {
+      "name": "车尔曼",
+      "blog_url": "https://www.tgb.cn/blog/5174163",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5177753": {
+      "name": "股海漂泊记",
+      "blog_url": "https://www.tgb.cn/blog/5177753",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5342520": {
+      "name": "以股为涯",
+      "blog_url": "https://www.tgb.cn/blog/5342520",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5435452": {
+      "name": "美姬实盘",
+      "blog_url": "https://www.tgb.cn/blog/5435452",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5439776": {
+      "name": "大盘少女芯",
+      "blog_url": "https://www.tgb.cn/blog/5439776",
+      "fans": 50199,
+      "tier": "B级",
+      "source": "论坛热门帖"
+    },
+    "5444866": {
+      "name": "创世纪88",
+      "blog_url": "https://www.tgb.cn/blog/5444866",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5452924": {
+      "name": "低调内敛的朋",
+      "blog_url": "https://www.tgb.cn/blog/5452924",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5621620": {
+      "name": "云77",
+      "blog_url": "https://www.tgb.cn/blog/5621620",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5677554": {
+      "name": "超短小妖女",
+      "blog_url": "https://www.tgb.cn/blog/5677554",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5727139": {
+      "name": "A拉神灯",
+      "blog_url": "https://www.tgb.cn/blog/5727139",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "5894557": {
+      "name": "延边刺客",
+      "blog_url": "https://www.tgb.cn/blog/5894557",
+      "fans": 98002,
+      "tier": "B级",
+      "source": "首页本周上升达人"
+    },
+    "6010797": {
+      "name": "天行无衣",
+      "blog_url": "https://www.tgb.cn/blog/6010797",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "6079729": {
+      "name": "戎马关山北",
+      "blog_url": "https://www.tgb.cn/blog/6079729",
+      "fans": 320,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "6136655": {
+      "name": "89小墨客",
+      "blog_url": "https://www.tgb.cn/blog/6136655",
+      "fans": 6611,
+      "tier": "D级",
+      "source": "首页本周上升达人"
+    },
+    "6532082": {
+      "name": "镀金梦想",
+      "blog_url": "https://www.tgb.cn/blog/6532082",
+      "fans": 257442,
+      "tier": "A级",
+      "source": "实盘比赛"
+    },
+    "6532339": {
+      "name": "ruobing",
+      "blog_url": "https://www.tgb.cn/blog/6532339",
+      "fans": 74714,
+      "tier": "B级",
+      "source": "论坛热门帖"
+    },
+    "6535004": {
+      "name": "Kant",
+      "blog_url": "https://www.tgb.cn/blog/6535004",
+      "fans": 1,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "6785388": {
+      "name": "风云第一刀",
+      "blog_url": "https://www.tgb.cn/blog/6785388",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "7035163": {
+      "name": "风蓝小将",
+      "blog_url": "https://www.tgb.cn/blog/7035163",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "7044222": {
+      "name": "麦亚糖",
+      "blog_url": "https://www.tgb.cn/blog/7044222",
+      "fans": 27291,
+      "tier": "C级",
+      "source": "用户指定"
+    },
+    "7079885": {
+      "name": "三川万里红",
+      "blog_url": "https://www.tgb.cn/blog/7079885",
+      "fans": 18920,
+      "tier": "C级",
+      "source": "实盘比赛"
+    },
+    "7105646": {
+      "name": "朱雀路作手",
+      "blog_url": "https://www.tgb.cn/blog/7105646",
+      "fans": 39293,
+      "tier": "B级",
+      "source": "用户指定"
+    },
+    "7131921": {
+      "name": "Blam",
+      "blog_url": "https://www.tgb.cn/blog/7131921",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "7209552": {
+      "name": "炒股不养身",
+      "blog_url": "https://www.tgb.cn/blog/7209552",
+      "fans": 549,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "7209631": {
+      "name": "心魔解析",
+      "blog_url": "https://www.tgb.cn/blog/7209631",
+      "fans": 44,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "7329370": {
+      "name": "一生要强的韭菜黄",
+      "blog_url": "https://www.tgb.cn/blog/7329370",
+      "fans": 4,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "7429095": {
+      "name": "大师兄擒妖",
+      "blog_url": "https://www.tgb.cn/blog/7429095",
+      "fans": 147774,
+      "tier": "A级",
+      "source": "论坛热门帖"
+    },
+    "7449958": {
+      "name": "纯粹与偏执",
+      "blog_url": "https://www.tgb.cn/blog/7449958",
+      "fans": 15575,
+      "tier": "C级",
+      "source": "实盘比赛"
+    },
+    "7582810": {
+      "name": "吃饭恐惧症",
+      "blog_url": "https://www.tgb.cn/blog/7582810",
+      "fans": 753,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "7688890": {
+      "name": "有李说不清丶",
+      "blog_url": "https://www.tgb.cn/blog/7688890",
+      "fans": 25,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "7737030": {
+      "name": "jl韭菜抄家",
+      "blog_url": "https://www.tgb.cn/blog/7737030",
+      "fans": 128389,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "7785932": {
+      "name": "伊路涨",
+      "blog_url": "https://www.tgb.cn/blog/7785932",
+      "fans": 7416,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "7975585": {
+      "name": "回复12",
+      "blog_url": "https://www.tgb.cn/blog/7975585",
+      "fans": 46,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "8006211": {
+      "name": "M小作手",
+      "blog_url": "https://www.tgb.cn/blog/8006211",
+      "fans": 5,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "8144360": {
+      "name": "淘股吧比赛",
+      "blog_url": "https://www.tgb.cn/blog/8144360",
+      "fans": 7509,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "8204294": {
+      "name": "炒股亏十八万",
+      "blog_url": "https://www.tgb.cn/blog/8204294",
+      "fans": 13644,
+      "tier": "C级",
+      "source": "实盘比赛"
+    },
+    "8252860": {
+      "name": "陈药师",
+      "blog_url": "https://www.tgb.cn/blog/8252860",
+      "fans": 7589,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "8403136": {
+      "name": "养娃娃哈哈",
+      "blog_url": "https://www.tgb.cn/blog/8403136",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "8423616": {
+      "name": "短狙作手",
+      "blog_url": "https://www.tgb.cn/blog/8423616",
+      "fans": 93062,
+      "tier": "B级",
+      "source": "首页本周上升达人"
+    },
+    "8478060": {
+      "name": "见股起意",
+      "blog_url": "https://www.tgb.cn/blog/8478060",
+      "fans": 44234,
+      "tier": "B级",
+      "source": "论坛热门帖"
+    },
+    "9117022": {
+      "name": "哈哈风",
+      "blog_url": "https://www.tgb.cn/blog/9117022",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "9259508": {
+      "name": "小土堆爆金币",
+      "blog_url": "https://www.tgb.cn/blog/9259508",
+      "fans": 114859,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "9435281": {
+      "name": "二池",
+      "blog_url": "https://www.tgb.cn/blog/9435281",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "9493798": {
+      "name": "六耳空空",
+      "blog_url": "https://www.tgb.cn/blog/9493798",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "9609119": {
+      "name": "古都投机者",
+      "blog_url": "https://www.tgb.cn/blog/9609119",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "9675271": {
+      "name": "浦东C罗",
+      "blog_url": "https://www.tgb.cn/blog/9675271",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "9740259": {
+      "name": "锋在路上",
+      "blog_url": "https://www.tgb.cn/blog/9740259",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "9753822": {
+      "name": "最强一枪",
+      "blog_url": "https://www.tgb.cn/blog/9753822",
+      "fans": 10540,
+      "tier": "C级",
+      "source": "实盘比赛"
+    },
+    "10067809": {
+      "name": "记录重生",
+      "blog_url": "https://www.tgb.cn/blog/10067809",
+      "fans": 1,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "10236056": {
+      "name": "作手奇衡三",
+      "blog_url": "https://www.tgb.cn/blog/10236056",
+      "fans": 63010,
+      "tier": "B级",
+      "source": "实盘比赛"
+    },
+    "10398950": {
+      "name": "短线忍者",
+      "blog_url": "https://www.tgb.cn/blog/10398950",
+      "fans": 24739,
+      "tier": "C级",
+      "source": "论坛热门帖"
+    },
+    "10458502": {
+      "name": "乔神带我飞",
+      "blog_url": "https://www.tgb.cn/blog/10458502",
+      "fans": 2,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "10673647": {
+      "name": "罐罐Ja",
+      "blog_url": "https://www.tgb.cn/blog/10673647",
+      "fans": 281,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "10779478": {
+      "name": "老弟来当韭菜",
+      "blog_url": "https://www.tgb.cn/blog/10779478",
+      "fans": 5839,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "10831591": {
+      "name": "六神大娜迦",
+      "blog_url": "https://www.tgb.cn/blog/10831591",
+      "fans": 5,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "11000437": {
+      "name": "日入五佰",
+      "blog_url": "https://www.tgb.cn/blog/11000437",
+      "fans": 1629,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "11056656": {
+      "name": "米开朗基瑞",
+      "blog_url": "https://www.tgb.cn/blog/11056656",
+      "fans": 127933,
+      "tier": "A级",
+      "source": "论坛热门帖"
+    },
+    "11139553": {
+      "name": "吉海吉涛",
+      "blog_url": "https://www.tgb.cn/blog/11139553",
+      "fans": 3925,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "11165054": {
+      "name": "過江之鯽",
+      "blog_url": "https://www.tgb.cn/blog/11165054",
+      "fans": 5399,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "11332509": {
+      "name": "01220112",
+      "blog_url": "https://www.tgb.cn/blog/11332509",
+      "fans": 816,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "11341384": {
+      "name": "林曜01",
+      "blog_url": "https://www.tgb.cn/blog/11341384",
+      "fans": 97,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "11477929": {
+      "name": "棒打狍子",
+      "blog_url": "https://www.tgb.cn/blog/11477929",
+      "fans": 89,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "11576431": {
+      "name": "青衫越女",
+      "blog_url": "https://www.tgb.cn/blog/11576431",
+      "fans": 61,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "11587014": {
+      "name": "半夏1992",
+      "blog_url": "https://www.tgb.cn/blog/11587014",
+      "fans": 5072,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "11668853": {
+      "name": "玫瑰超短",
+      "blog_url": "https://www.tgb.cn/blog/11668853",
+      "fans": 33982,
+      "tier": "B级",
+      "source": "首页本周上升达人"
+    },
+    "11808691": {
+      "name": "大曾子",
+      "blog_url": "https://www.tgb.cn/blog/11808691",
+      "fans": 120152,
+      "tier": "A级",
+      "source": "首页本周上升达人"
+    },
+    "12195710": {
+      "name": "大力zzZ",
+      "blog_url": "https://www.tgb.cn/blog/12195710",
+      "fans": 73,
+      "tier": "E级",
+      "source": "论坛热门帖"
+    },
+    "12388127": {
+      "name": "枇杷说",
+      "blog_url": "https://www.tgb.cn/blog/12388127",
+      "fans": 15502,
+      "tier": "C级",
+      "source": "实盘比赛"
+    },
+    "12397823": {
+      "name": "不吃炸板",
+      "blog_url": "https://www.tgb.cn/blog/12397823",
+      "fans": 505,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "12445081": {
+      "name": "休息战法",
+      "blog_url": "https://www.tgb.cn/blog/12445081",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "实盘比赛"
+    },
+    "12934558": {
+      "name": "逸展",
+      "blog_url": "https://www.tgb.cn/blog/12934558",
+      "fans": 6088,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "13017101": {
+      "name": "小导档",
+      "blog_url": "https://www.tgb.cn/blog/13017101",
+      "fans": 14,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "13046887": {
+      "name": "国融我爱涨停",
+      "blog_url": "https://www.tgb.cn/blog/13046887",
+      "fans": 2318,
+      "tier": "D级",
+      "source": "实盘比赛"
+    },
+    "13126346": {
+      "name": "作手阿意",
+      "blog_url": "https://www.tgb.cn/blog/13126346",
+      "fans": 10931,
+      "tier": "C级",
+      "source": "首页本周上升达人"
+    },
+    "13145799": {
+      "name": "橘子洲炒家实战",
+      "blog_url": "https://www.tgb.cn/blog/13145799",
+      "fans": 16686,
+      "tier": "C级",
+      "source": "首页本周上升达人"
+    },
+    "13186975": {
+      "name": "主升龙头空空龙",
+      "blog_url": "https://www.tgb.cn/blog/13186975",
+      "fans": 33978,
+      "tier": "B级",
+      "source": "首页本周上升达人"
+    },
+    "13232170": {
+      "name": "陈小炮",
+      "blog_url": "https://www.tgb.cn/blog/13232170",
+      "fans": 12824,
+      "tier": "C级",
+      "source": "实盘比赛"
+    },
+    "13445868": {
+      "name": "那年我19",
+      "blog_url": "https://www.tgb.cn/blog/13445868",
+      "fans": 6,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "13466666": {
+      "name": "少年莽撞",
+      "blog_url": "https://www.tgb.cn/blog/13466666",
+      "fans": 8,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "13570264": {
+      "name": "炮轰爽一夜",
+      "blog_url": "https://www.tgb.cn/blog/13570264",
+      "fans": 4,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "13602570": {
+      "name": "炒股周游世界go",
+      "blog_url": "https://www.tgb.cn/blog/13602570",
+      "fans": 1,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "13607543": {
+      "name": "fe作手",
+      "blog_url": "https://www.tgb.cn/blog/13607543",
+      "fans": 50,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "13608107": {
+      "name": "在股海游泳",
+      "blog_url": "https://www.tgb.cn/blog/13608107",
+      "fans": 2,
+      "tier": "E级",
+      "source": "论坛热门帖"
+    },
+    "13656222": {
+      "name": "孙悟饭啊",
+      "blog_url": "https://www.tgb.cn/blog/13656222",
+      "fans": 25,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "13697038": {
+      "name": "清高实盘",
+      "blog_url": "https://www.tgb.cn/blog/13697038",
+      "fans": 32,
+      "tier": "E级",
+      "source": "实盘比赛"
+    },
+    "14273785": {
+      "name": "玄同守一",
+      "blog_url": "https://www.tgb.cn/blog/14273785",
+      "fans": 0,
+      "tier": "未评级",
+      "source": "论坛热门帖"
+    }
+  }
+}
